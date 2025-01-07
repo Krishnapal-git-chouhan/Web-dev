@@ -1,1 +1,1 @@
-# created a Shade Sass Landing website
+# created a Study Sync website
